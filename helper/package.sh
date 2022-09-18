@@ -2,8 +2,8 @@
 
 PACKAGES=(
   awesomeshot bat curl clang exa fzf git imagemagick
-  inotify-tools lf mpd mpc neovim openssh
-  neofetch termux-api tmux zsh
+  inotify-tools lf openssh
+  termux-api tmux zsh
 )
 
 function packages() {
